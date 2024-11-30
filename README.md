@@ -1,10 +1,10 @@
 # Snake Game
 
-    --..,_                     _,.--.
-       `'.'.                .'`__ o  `;__.            ,:.
-          '.'.            .'.'`  '---'`  `           (:::)
-            '.`'--....--'`.'                          `-'
-              `'--....--'`
+                    --..,_                     _,.--.
+                       `'.'.                .'`__ o  `;__.            ,:.
+                          '.'.            .'.'`  '---'`  `           (:::)
+                            '.`'--....--'`.'                          `-'
+                              `'--....--'`
 -----------------
 
 Snake é um jogo eletrônico simples, mas viciante, onde o jogador controla uma cobra que se move em um espaço fechado. O objetivo é comer itens (geralmente maçãs ou pontos) que aparecem aleatoriamente na tela. Cada item comido faz com que a cobra cresça um segmento. A cobra morre se colidir com as bordas da tela ou com seu próprio corpo.
